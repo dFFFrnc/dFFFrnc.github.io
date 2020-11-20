@@ -1,0 +1,66 @@
+body{
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.header
+{
+  background-color: white;
+}
+
+.sub-header
+{
+  background-color: #E9E9E9;
+}
+
+.phone-container
+{
+  margin-left: 80%;
+}
+.phone-links
+{
+  color: #17202B;
+  font-size: 14px;
+  text-decoration:none;
+  margin-right:10px;
+}
+.phone-links:hover
+{
+ color: #EB1B35;
+ transition: 0.2s;
+}
+
+.main-menu
+{
+  vertical-align: middle;
+  padding: 10px 0;
+}
+.logo
+{
+  margin: 0 auto 0 15%;
+  width: 200px;
+}
+.menu-container
+{
+  margin-left:60%;
+
+}
+.menu
+{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+.menu-item
+{
+  text-decoration: none;
+  float: left;
+  display: block;
+  padding: 15px;
+  }
+.socials
+{
+  display:block;
+  float: left;
+}

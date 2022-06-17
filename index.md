@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
@@ -16,11 +17,11 @@
     <script defer src="https://use.fontawesome.com/releases/v5.0.7/js/all.js"></script>
     <link rel="icon" href="d.png" />
 
-
   </head>
   <body>
 
 <!-- sub header -->
+
        <div class="sub-header">
          <div class="phone-container">
           <a class="phone-links" href="phone:+1010100101010">+3809899212</a>
@@ -28,8 +29,8 @@
          </div>
        </div>
 
-
 <!-- Nav Bar -->
+
 <nav class="navbar navbar-expand-md navbar-light navbar-fixed-top">
    <div class="container">
     <a class="navbar-brand" href="#title">
@@ -61,10 +62,11 @@
            </div>
          </li>
        </ul>
+
    </nav>
 
-
 <!-- First screen -->
+
 <section id="first-screen" class="main-banner2">
    <div class="main-banner">
      <div class="col-4 first-screen-container">
@@ -76,6 +78,7 @@
 </section>
 
  <!-- category  ЖИТЛОВИЙ ДЕМОНТАЖ-->
+
 <section class="category-section">
 <h2 class="category-title">Побутовий демонтаж</h2>
 <div class="container category-masonary">
@@ -121,10 +124,12 @@
      </div>
 
     </div>
+
 </div>
 </section>
 
 <!-- category  ПОБУТОВИЙ ДЕМОНТАЖ-->
+
 <section class="category-section">
 <h2 class="category-title">Побутовий демонтаж</h2>
 <div class="container category-masonary">
@@ -162,13 +167,13 @@
        </div>
     </div>
 
-
    </div>
 </div>
 </div>
 </section>
 
 <!-- category  ПРОМИСЛОВИЙ ДЕМОНТАЖ-->
+
 <section class="category-section">
 <h2 class="category-title">Побутовий демонтаж</h2>
 <div class="container category-masonary">
@@ -198,10 +203,10 @@
 
        </div>
     </div>
+
    </div>
 </div>
 </section>
-
 
  <!-- about  -->
 
@@ -213,16 +218,20 @@
      <div class="col-6">
        <h3>Про компанію</h3>
        <p class="white-p">Демонтаж Плюс — це компанія, яка проводить цілий комплекс демонтажних робіт.
+
 Для нас демонтаж будівлі— це послідовний процес розбору, з максимальним збереженням матеріалів, для переробки або повторного використання.
+
        </p>
          <a class="btn btn-primary" href="#">Більше про нас</a>
      </div>
+
    </div>
 
  </div>
 </section>
 
 <!-- перевага  -->
+
 <section class="section-plus">
      <div class="container block-plus">
      <div class="col-8 plus-container">
@@ -255,17 +264,21 @@
 
        <div class="col-4">
          <p><i>"Це справді - професіонали своєї справи.
+
 Зробили отвір в несучій стіні за декілька годин. А потім вивезли все сміття. "<br>
 <b>Володимир Луцик, "Декор-Маркет"</b></i>
+
         </p>
        </div>
 
      </div>
+
    </div>
 
  </section>
 
 <!-- Call to action -->
+
 <div class="b-example-divider"></div>
 <section class="call-to-action">
 
@@ -296,6 +309,7 @@
 </section>
 
 <!-- Footer -->
+
 <section id="footer">
 <div class="container">
   <footer class="py-3 my-4">
@@ -306,6 +320,7 @@
 
     </ul>
     <p class="text-center text-muted">© 2022 Демонтаж Плюс</p>
+
   </footer>
 </div>
 </section>

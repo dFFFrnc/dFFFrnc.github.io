@@ -34,7 +34,7 @@
 <nav class="navbar navbar-expand-md navbar-light navbar-fixed-top">
    <div class="container">
     <a class="navbar-brand" href="#title">
-      <img src="images/logo.png" alt="demontage-logo" class="d-inline-block align-text-top" style="width: 200px;">
+      <img src="images/LOGO.png" alt="demontage-logo" class="d-inline-block align-text-top" style="width: 200px;">
     </a>
     </div>
      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">

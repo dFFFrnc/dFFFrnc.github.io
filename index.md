@@ -32,6 +32,6 @@
       <a class="nav-link" href="contacts.html">Контакти</a>
     </li>
     <li class="navbar-item">
-      <a class="nav-link" href="category.html">Категорія/a>
+      <a class="nav-link" href="category.html">Категорія</a>
     </li>
 </body>

@@ -149,7 +149,7 @@ a:hover {
   top: 35%;
 }
 
-@media(max-width: 1319px) {}
+
 
 .category-title {
   position: relative;
@@ -158,9 +158,8 @@ a:hover {
   bottom: 86.76%;
 }
 
-.masonary-block {
-  flex-wrap: nowrap;
-}
+/*
+
 
 .big-block-category {
   float: left;
@@ -216,6 +215,7 @@ a:hover {
   flex-direction: row-reverse
 }
 
+
 .middle-category {
   display: block;
   float: left;
@@ -227,6 +227,8 @@ a:hover {
   border-radius: 3px;
   padding: 31% 0 0 5px;
 }
+
+
 
 .block-plus {
   position: relative;
@@ -319,4 +321,17 @@ a:hover {
 .card {
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+
+@media (max-width: 300px) {
+  .cn-small {
+    font-size: 1em;
+    color:black;
+  }
+
+  .cn-big {
+    font-size: 1.5em;
+    color:black;
+  }
 }

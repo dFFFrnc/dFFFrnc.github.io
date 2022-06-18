@@ -23,7 +23,7 @@
 <body>
   <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
     <li class="navbar-item">
-      <a class="nav-link " href="index.html">Головна</a>
+      <a class="nav-link " href="main.html">Головна</a>
     </li>
     <li class="navbar-item">
       <a class="nav-link" href="about.html">Про нас</a>

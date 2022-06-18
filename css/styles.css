@@ -158,7 +158,6 @@ a:hover {
   bottom: 86.76%;
 }
 
-/*
 
 
 .big-block-category {
@@ -321,17 +320,4 @@ a:hover {
 .card {
   background-repeat: no-repeat;
   background-size: cover;
-}
-
-
-@media (max-width: 300px) {
-  .cn-small {
-    font-size: 1em;
-    color:black;
-  }
-
-  .cn-big {
-    font-size: 1.5em;
-    color:black;
-  }
 }
